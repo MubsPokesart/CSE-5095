@@ -1,0 +1,12 @@
+Statistic,mean,variance,mean,variance
+Subreddit,action,action,science,science
+Feature,,,,
+post_score,94.45,17504.66,180.31,117766.93
+post_thumbs_ups,94.45,17504.66,180.31,117766.93
+post_total_awards_received,0.0,0.0,0.0,0.0
+post_upvote_ratio,0.93,0.01,0.93,0.01
+user_awardee_karma,2089.47,54271809.64,1944.27,37748205.3
+user_awarder_karma,575.29,9556990.75,605.58,5119978.27
+user_comment_karma,77849.73,62082555762.84,66500.8,13220429747.94
+user_link_karma,47975.48,41813577939.77,90178.09,124488864017.76
+user_total_karma,128489.97,178768914774.99,159228.75,176445155444.66

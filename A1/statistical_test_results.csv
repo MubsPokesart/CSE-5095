@@ -1,0 +1,10 @@
+Feature,Test,Statistic,P-value,Significant at 5% level
+post_score,Mann-Whitney U test,1366425.0,3.4339232619050393e-16,Yes
+post_upvote_ratio,Mann-Whitney U test,1068302.0,0.00021532753305165836,Yes
+post_thumbs_ups,Mann-Whitney U test,1366425.0,3.4339232619050393e-16,Yes
+post_total_awards_received,T-test,,,No
+user_awardee_karma,Mann-Whitney U test,1248807.5,0.0004322621863624234,Yes
+user_awarder_karma,Mann-Whitney U test,1220697.0,0.008009958366033009,Yes
+user_link_karma,Mann-Whitney U test,1201743.0,0.10605193665116378,No
+user_comment_karma,Mann-Whitney U test,1454788.0,1.8595649739379922e-31,Yes
+user_total_karma,Mann-Whitney U test,1422186.0,3.3041915905706855e-25,Yes
